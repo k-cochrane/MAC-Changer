@@ -1,5 +1,5 @@
 # MAC-Changer
-Temporarily change the MAC address of any device on a network..
+Temporarily change the MAC address of any device on a network.
 
 ## Setup
 
